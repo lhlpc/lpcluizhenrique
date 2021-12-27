@@ -1,10 +1,10 @@
 Software Engineer - 5 years
 
-• Go (Golang) - 2 years of experience
-• Rust - 2 years of experience
-• Elixir - 2 years of experience
-• Node.js - 2 years of experience
-• JavaScript/TypeScript - 5 years of experience
+- Go (Golang) - 2 years of experience
+- Rust - 2 years of experience
+- Elixir - 2 years of experience
+- Node.js - 2 years of experience
+- JavaScript/TypeScript - 5 years of experience
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
