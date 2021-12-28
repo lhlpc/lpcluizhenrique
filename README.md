@@ -4,7 +4,7 @@
 
 ----
 
-Software Engineer - 5 years of experience
+5 years Software Engineer
 
 ## 🔧 Programming Languages
 
@@ -25,7 +25,6 @@ Node.js    ▏   2.5 years ██▌
 
 JavaScript ▏     5 years █████
 ```
-
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About me 
 Professional software developer for 5 years, Henrique has solid knowledge of JavaScript, Node.js, Elixir, Rust, and Go (Golang).
