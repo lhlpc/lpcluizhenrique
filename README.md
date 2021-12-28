@@ -5,6 +5,13 @@
 
 Software Engineer - 5 years of experience
 
+<img height="32" width="32" fill="#F7DF1E" src="https://unpkg.com/simple-icons@6.4.0/icons/javascript.svg" />
+
+
+<object type="image/svg+xml" data="kiwi.svg" class="logo">
+  Kiwi Logo <!-- fallback image in CSS -->
+</object>
+
 ```
 Golang     ▏   2.5 years ██▌
 
