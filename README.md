@@ -5,11 +5,11 @@
 
 Software Engineer - 5 years of experience
 
-<img height="32" width="32" src="./images/golang-logo.svg" />
-<img height="32" width="32" src="./images/rust-logo.svg" />
-<img height="32" width="32" src="./images/elixir-logo.svg" />
-<img height="32" width="32" src="./images/node-logo.svg" />
-<img height="32" width="32" src="./images/javascript-logo.svg" />
+<img height="40" width="40" src="./images/gopher-logo.svg" />
+<img height="40" width="40" src="./images/rust-logo.svg" />
+<img height="40" width="40" src="./images/elixir-logo.svg" />
+<img height="40" width="40" src="./images/node-logo.svg" />
+<img height="40" width="40" src="./images/javascript-logo.svg" />
 
 
 <object type="image/svg+xml" data="kiwi.svg" class="logo">
