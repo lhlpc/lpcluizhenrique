@@ -29,7 +29,7 @@ JavaScript ▏     5 years █████
 ```
 
 
-## About me <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About me 
 Professional software developer for 5 years, Henrique has solid knowledge of JavaScript, Node.js, Elixir, Rust, and Go (Golang).
 
 He is currently focused on software architecture, specifically in clean architecture, and microservices applied to the implementation of back end and distributed applications with Node.js/JavaScript/TypeScript, Elixir, Rust, and Go (Golang).
