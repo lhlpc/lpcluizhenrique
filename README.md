@@ -1,20 +1,18 @@
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi!+I'm+Henrique+Costa+%3AD)](https://git.io/typing-svg)
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizhenriquelpc/)](https://www.linkedin.com/in/luizhenriquelpc/) [![Gmail Badge](https://img.shields.io/badge/-lpcluizhenrique@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lpcluizhenrique@gmail.com)](mailto:lpcluizhenrique@gmail.com)
+
 ----
 
 Software Engineer - 5 years of experience
 
-<img height="40" width="40" src="./images/gopher-logo.svg" />
-<img height="40" width="40" src="./images/rust-logo.svg" />
-<img height="40" width="40" src="./images/elixir-logo.svg" />
-<img height="40" width="40" src="./images/node-logo.svg" />
-<img height="40" width="40" src="./images/javascript-logo.svg" />
-
-
-<object type="image/svg+xml" data="kiwi.svg" class="logo">
-  Kiwi Logo <!-- fallback image in CSS -->
-</object>
+<img height="40" width="40" style="display: inline; height='40'; width='40'" src="./images/gopher-logo.svg" />
+<img height="40" width="40" style="display: inline" src="./images/rust-logo.svg" />
+<img height="40" width="40" style="display: inline" src="./images/elixir-logo.svg" />
+<img height="40" width="40" style="display: inline" src="./images/node-logo.svg" />
+<img height="40" width="40" style="display: inline" src="./images/javascript-logo.svg" />
 
 ```
 Golang     ▏   2.5 years ██▌
