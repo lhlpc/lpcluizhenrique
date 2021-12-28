@@ -1,10 +1,21 @@
-Software Engineer - 5 years
 
-- Go (Golang) - 2 years of experience
-- Rust - 2 years of experience
-- Elixir - 2 years of experience
-- Node.js - 2 years of experience
-- JavaScript/TypeScript - 5 years of experience
+
+[![Linkedin Badge](https://img.shields.io/badge/-Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizhenriquelpc/)](https://www.linkedin.com/in/luizhenriquelpc/) [![Gmail Badge](https://img.shields.io/badge/-lpcluizhenrique@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lpcluizhenrique@gmail.com)](mailto:lpcluizhenrique@gmail.com)
+----
+
+Software Engineer - 5 years of experience
+
+```
+Golang     ▏   2.5 years ██▌
+
+Rust       ▏   2.5 years ██▌
+
+Elixir     ▏   2.5 years ██▌
+
+Node.js    ▏   2.5 years ██▌
+
+JavaScript ▏     5 years █████
+```
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
