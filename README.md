@@ -1,6 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi!+I'm+Henrique+Costa+%3AD)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2369D7E2&lines=Hi!+I'm+Henrique+Costa+%3AD)](https://git.io/typing-svg)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Henrique-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizhenriquelpc/)](https://www.linkedin.com/in/luizhenriquelpc/) [![Gmail Badge](https://img.shields.io/badge/-lpcluizhenrique@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lpcluizhenrique@gmail.com)](mailto:lpcluizhenrique@gmail.com)
 
