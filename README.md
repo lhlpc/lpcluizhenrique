@@ -5,7 +5,11 @@
 
 Software Engineer - 5 years of experience
 
-<img height="32" width="32" fill="#F7DF1E" src="https://unpkg.com/simple-icons@6.4.0/icons/javascript.svg" />
+<img height="32" width="32" src="./images/golang-logo.svg" />
+<img height="32" width="32" src="./images/rust-logo.svg" />
+<img height="32" width="32" src="./images/elixir-logo.svg" />
+<img height="32" width="32" src="./images/node-logo.svg" />
+<img height="32" width="32" src="./images/javascript-logo.svg" />
 
 
 <object type="image/svg+xml" data="kiwi.svg" class="logo">
