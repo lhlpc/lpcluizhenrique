@@ -4,7 +4,7 @@
 
 ----
 
-5 years Software Engineer
+8-year Software Engineer
 
 ## 🔧 Programming Languages
 
@@ -15,21 +15,19 @@
 <code style="background-color: transparent;"><img height="60" width="60" style="display: inline" src="./images/javascript-logo.svg"></code> 
 
 ```
-Golang     ▏   2.5 years ██▌
+Golang     ▏   4 years ██▌
 
-Rust       ▏   2.5 years ██▌
+Python     ▏   4 years ██▌
 
-Elixir     ▏   2.5 years ██▌
+Node.js    ▏   4 years ██▌
 
-Node.js    ▏   2.5 years ██▌
-
-JavaScript ▏     5 years █████
+JavaScript ▏   7 years █████
 ```
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About me 
-Professional software developer for 5 years, Henrique has solid knowledge of JavaScript, Node.js, Elixir, Rust, and Go (Golang).
+Professional software developer for 8 years, Henrique has solid knowledge of JavaScript, Node.js, Python, and Go (Golang).
 
-He is currently focused on software architecture, specifically in clean architecture, and microservices applied to the implementation of back end and distributed applications with Node.js/JavaScript/TypeScript, Elixir, Rust, and Go (Golang).
+He is currently focused on software architecture, specifically in clean architecture, and microservices applied to the implementation of back end and distributed applications with Node.js/JavaScript/TypeScript, Python, and Go (Golang).
 
 He has experience with agile software development methodologies, such as Kanban and Scrum, as well as Git, Git Flow, TDD, clean code, and DevOps culture.
 
