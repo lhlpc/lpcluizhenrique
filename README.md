@@ -8,12 +8,6 @@
 
 ## 🔧 Programming Languages
 
-<code style="background-color: transparent;"><img  style="background-color: transparent;" height="60" width="60" style="display: inline; height='40'; width='40'" src="./images/gopher-logo.svg"></code>
-<code style="background-color: transparent;"><img height="60" width="60" style="display: inline" src="./images/rust-logo.svg"></code>
-<code style="background-color: transparent;"><img height="60" width="60" style="display: inline" src="./images/elixir-logo.svg"></code>
-<code style="background-color: transparent;"><img height="60" width="60" style="display: inline" src="./images/node-logo.svg"></code>
-<code style="background-color: transparent;"><img height="60" width="60" style="display: inline" src="./images/javascript-logo.svg"></code> 
-
 ```
 Golang     ▏   4 years ██▌
 
